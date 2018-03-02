@@ -1,0 +1,2 @@
+# FireGauntlets
+Solo project with assistance from engineering mentors and the University of Arizona's IEEE department. Prototype based on the design by Allen Pan. Utilizing a series of tubes, a solenoid valve, an arc lighter, butane gas, an Adafruit accelerometer, and an Arduino Pro Mini (loaded with a C program), I have created a wrist-mounted mechanism that releases a small amount of butane gas through the arc lighter, creating a forward-shooting fireball at the end of a "good" punch as determined by the digital logic within the Arduino chip. 
